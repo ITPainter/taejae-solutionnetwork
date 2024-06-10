@@ -4,7 +4,7 @@ import streamlit as st
 utterances_code = """
 <div id="utterances"></div>
 <script src="https://utteranc.es/client.js"
-        repo="yochoiDavid/taejae-solutionnetwork"
+        repo="ITPainter/taejae-solutionnetwork"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
