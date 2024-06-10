@@ -9,6 +9,7 @@ utterances_code = """
         theme="github-light"
         crossorigin="anonymous"
         async>
+</script>
 """
 
 st.title("Utterances Comments")
